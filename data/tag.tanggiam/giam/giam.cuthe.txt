@@ -1,0 +1,11 @@
+﻿$maCP$ xuống $giaThayDoi$ đồng. 
+$maCP$ mất $giaThayDoi$ đồng một cổ phiếu. 
+Thị giá $maCP$ giảm còn $giaDongCua$ đồng. 
+$maCP$ giảm xuống còn $giaDongCua$ đồng, mất $giaThayDoi$ đồng. 
+$maCP$ sụt mất $giaThayDoi$ đồng, xuống còn $giaDongCua$ đồng/cổ phiếu. 
+$maCP$ mất $giaThayDoi$ đồng, chốt giá $giaDongCua$ đồng. 
+Cổ phiếu $maCP$ hôm nay mất đi $giaThayDoi$ đồng, còn $giaDongCua$ đồng. 
+Mất $giaThayDoiPhanTram$% thị giá, cổ phiếu $maCP$ giảm về mức $giaDongCua$ đồng. 
+Giá $maCP$ giảm $giaThayDoiPhanTram$% xuống chỉ còn $giaDongCua$ đồng. 
+$maCP$ mất $giaThayDoiPhanTram$% giá trị, chỉ còn $giaDongCua$ đồng/cổ phiếu. 
+Cổ phiếu $maCP$ giảm sàn $giaThayDoiPhanTram$% xuống còn $giaDongCua$ đồng/cổ phiếu. 

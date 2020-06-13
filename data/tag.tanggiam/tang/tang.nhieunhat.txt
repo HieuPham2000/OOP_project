@@ -1,0 +1,4 @@
+﻿Đứng đầu trong danh sách tăng giá là cổ phiếu $maCP$ với mức tăng $giaThayDoiPhanTram$%. 
+Tăng mạnh nhất là $maCP$, tăng $giaThayDoi$ đồng ($giaThayDoiPhanTram$%), lên mức $giaDongCua$ đồng/cổ phiếu. 
+Với mức tăng $giaThayDoiPhanTram$%, $maCP$ đứng đầu trong danh sách tăng giá. 
+Cổ phiếu $maCP$ tăng nhiều nhất, thêm $giaThayDoi$ đồng mỗi cổ phiếu (tức $giaThayDoiPhanTram$%), chốt giá $giaDongCua$ đồng. 

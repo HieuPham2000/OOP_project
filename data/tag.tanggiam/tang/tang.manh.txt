@@ -1,0 +1,4 @@
+﻿Cổ phiếu $maCP$ có mức tăng giá ấn tượng: $giaThayDoiPhanTram$%. 
+$maCP$ tăng tới $giaThayDoiPhanTram$%, chốt giá $giaDongCua$ đồng. 
+Với mức tăng giá ấn tượng $giaThayDoiPhanTram$%, $maCP$ kết thúc phiên giao dịch với giá $giaDongCua$ đồng/cổ phiếu. 
+Lên $giaThayDoiPhanTram$%, chốt giá $giaDongCua$ đồng, $maCP$ là cổ phiếu có mức tăng giá ấn tượng trong ngày. 

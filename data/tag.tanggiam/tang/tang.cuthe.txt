@@ -1,0 +1,7 @@
+﻿Giá $maCP$ tăng thêm $giaThayDoi$ đồng. 
+Cổ phiếu $maCP$ tăng $giaThayDoiPhanTram$%, đóng cửa ở mức $giaDongCua$ đồng. 
+$maCP$ tăng $giaThayDoi$ đồng một cổ phiếu. 
+$maCP$ tăng thêm $giaThayDoi$ đồng, lên mức $giaDongCua$ đồng/cổ phiếu. 
+$maCP$ tăng $giaThayDoi$ đồng, chốt giá $giaDongCua$ đồng. 
+Tăng thêm $giaThayDoiPhanTram$% thị giá, cổ phiếu $maCP$ lên mức $giaDongCua$ đồng. 
+$maCP$ tăng $giaThayDoiPhanTram$% giá trị, lên $giaDongCua$ đồng/cổ phiếu. 

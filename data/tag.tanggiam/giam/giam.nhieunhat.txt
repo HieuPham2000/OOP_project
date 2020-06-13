@@ -1,0 +1,3 @@
+﻿Dẫn đầu là $maCP$, rớt $giaThayDoi$ đồng (tức $giaThayDoiPhanTram$%), xuống $giaDongCua$ đồng. 
+Cổ phiếu $maCP$ mất $giaThayDoiPhanTram$%, tuột nhiều nhất trong ngày. 
+Cổ phiếu $maCP$ giảm mạnh nhất với $giaThayDoiPhanTram$%. 

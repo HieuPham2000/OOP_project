@@ -1,0 +1,4 @@
+﻿Mã duy nhất tăng giá là $maCP$ với mức tăng $giaThayDoi$ đồng một cổ phiếu. 
+Với mức tăng $giaThayDoiPhanTram$%, chốt giá $giaDongCua$ đồng/cổ phiếu, $maCP$ là mã tăng duy nhất trong ngày. 
+$maCP$ là mã tăng duy nhất trong ngày, tăng $giaThayDoi$ đồng. 
+Thêm $giaThayDoi$ đồng/cổ, $maCP$ là mã tăng duy nhất trong ngày. 
